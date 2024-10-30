@@ -3,19 +3,20 @@
 
 # 👋 MOHAMED EL HADDIOUI
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohamedelhaddioui&color=blue)](https://github.com/mohamedelhaddioui)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/mohamed.elhaddioui99/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue)](https://www.instagram.com/mohamed_el_haddioui_99/)
-
-[![X](https://img.shields.io/badge/X-Connect-blue)](https://x.com/MOHAMED12131999)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue)](https://mohamedelhaddioui.netlify.app/)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedelhaddioui&color=blue)](https://github.com/mohamedelhaddioui)  
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)  
+&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/mohamed.elhaddioui99/)  
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue)](https://www.instagram.com/mohamed_el_haddioui_99/)  
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-Connect-blue)](https://x.com/MOHAMED12131999)  
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue)](https://mohamedelhaddioui.netlify.app/)  
+&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mohamedelhaddioui99@gmail.com)
+
 
   Big Data & Cloud Computing Engineer | Data Scientist | Software Engineer
 
