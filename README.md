@@ -38,60 +38,40 @@
 
 ### 🌐 Web Technologies
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;&nbsp;&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📊 Big Data & Cloud
 
-![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=flat&logo=apache-hadoop&logoColor=black)
-
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=flat&logo=apache-hadoop&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🤖 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2A?style=flat&logo=pytorch&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-30B5B5?style=flat&logo=seaborn&logoColor=white)
-
-![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=flat&logo=nltk&logoColor=white)
-
-![spaCy](https://img.shields.io/badge/spaCy-3E3E3E?style=flat&logo=spaCy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2A?style=flat&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-30B5B5?style=flat&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=flat&logo=nltk&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![spaCy](https://img.shields.io/badge/spaCy-3E3E3E?style=flat&logo=spaCy&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### 🤖 DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
