@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer | Data Science</h3>
 
 # 👋 MOHAMED EL HADDIOUI
+<div align="center">
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedelhaddioui&color=blue)](https://github.com/mohamedelhaddioui)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/mohamed.elhaddioui99/)
@@ -9,7 +10,7 @@
 [![X](https://img.shields.io/badge/X-Connect-blue)](https://x.com/MOHAMED12131999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue)](https://mohamedelhaddioui.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mohamedelhaddioui99@gmail.com)
-
+<div>
 Big Data & Cloud Computing Engineer | Data Scientist | Software Engineer
 
 ## 🎓 About Me
