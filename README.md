@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED EL HADDIOUI</h1>
-<h3 align="center">Software Engineer | Data Science</h3>
+<h3 align="center">Software Engineer | Data Scientist</h3>
 
 # 👋 MOHAMED EL HADDIOUI
 
