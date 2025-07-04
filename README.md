@@ -3,7 +3,7 @@
 
 # 👋 MOHAMED EL HADDIOUI
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohamedelhaddioui&color=blue)](https://github.com/mohamedelhaddioui)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedelhaddioui&color=blue)](https://github.com/MOHAMED-EL-HADDIOUI)&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/mohamed.elhaddioui99/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Connect-blue)](https://www.instagram.com/mohamed_el_haddioui_99/)&nbsp;&nbsp;&nbsp;&nbsp;
