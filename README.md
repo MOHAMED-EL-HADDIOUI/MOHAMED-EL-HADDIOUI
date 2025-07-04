@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED EL HADDIOUI</h1>
-<h3 align="center">Software Engineer | Data Scientist</h3>
+<h3 align="center">Software & IA Engineer | Data Scientist</h3>
 
 # 👋 MOHAMED EL HADDIOUI
 
@@ -13,7 +13,7 @@
 
 
 
-  Big Data & Cloud Computing Engineer | Data Scientist | Software Engineer
+  Big Data & Cloud Computing Engineer | Data Scientist | Software & IA Engineer
 
 ## 🎓 About Me
 
