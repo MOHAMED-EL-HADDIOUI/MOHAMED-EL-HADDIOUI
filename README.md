@@ -111,7 +111,7 @@
 
 ## 📫 Contact Information
 - 📧 Email: mohamedelhaddioui99@gmail.com
-- 📱 Phone: +212 6 243 893 78
+- 📱 Phone: +212 624 389 378
 - 💼 LinkedIn: [mohamed-el-haddioui](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)
 
 ---
