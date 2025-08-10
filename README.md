@@ -40,8 +40,11 @@ Amazigh (Native) · French (Fluent) · English (Fluent) · Arabic (Native)
 ## 📊 GitHub Profile
 
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMED-EL-HADDIOUI&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMED-EL-HADDIOUI&layout=compact&theme=radical)
+
 </div>
 
 ---
@@ -49,7 +52,6 @@ Amazigh (Native) · French (Fluent) · English (Fluent) · Arabic (Native)
 ## 📫 Get In Touch
 
 - 📧 Email: [mohamedelhaddioui99@gmail.com](mailto:mohamedelhaddioui99@gmail.com)  
-- 📱 Phone: +212 624 389 378  
 - 💼 LinkedIn: [mohamed-el-haddioui](https://www.linkedin.com/in/mohamed-el-haddioui-ba8ba8170/)  
 
 ---
