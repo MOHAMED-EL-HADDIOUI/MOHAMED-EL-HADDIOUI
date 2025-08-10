@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED EL HADDIOUI</h1>
-<h3 align="center">AI | Data Engineer | Software Engineer</h3>
+<h3 align="center">Software, Data & AI Engineer</h3>
 
 ---
 
@@ -31,20 +31,6 @@ Docker · Kubernetes · Jenkins · Git
 
 ---
 
-## 🏆 Certifications & Training
-
-- MongoDB Basics (M001)  
-- Cisco NDG Linux Essentials  
-- IBM Professional Machine Learning Certificate  
-- CCNA Routing and Switching Essentials  
-- Cybersecurity Foundations  
-- IoT Fundamentals  
-- Applied Data Science with Python (Specialization)  
-- Machine Learning Engineering for Production (MLOps)  
-- IBM Applied DevOps Engineering Certificate  
-
----
-
 ## 🌍 Languages
 
 Amazigh (Native) · French (Fluent) · English (Fluent) · Arabic (Native)  
@@ -54,8 +40,8 @@ Amazigh (Native) · French (Fluent) · English (Fluent) · Arabic (Native)
 ## 📊 GitHub Profile
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMED-EL-HADDIOUI&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMED-EL-HADDIOUI&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMED-EL-HADDIOUI&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMED-EL-HADDIOUI&layout=compact&theme=radical)
 </div>
 
 ---
