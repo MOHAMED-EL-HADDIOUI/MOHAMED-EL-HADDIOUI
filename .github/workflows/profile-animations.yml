@@ -37,6 +37,13 @@ jobs:
           mkdir -p assets
           mv profile-3d-contrib/*.svg assets/
 
+      # 📊 Self-hosted stats cards (no third-party image servers)
+      - name: Generate stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 scripts/generate_cards.py
+
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
