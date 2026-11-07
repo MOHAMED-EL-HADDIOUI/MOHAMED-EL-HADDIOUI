@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="175" viewBox="0 0 360 175" role="img" aria-label="Contribution Streak">
+<style>
+  .t{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#7AA2F7}
+  .l{font:400 14px 'Segoe UI',Ubuntu,Sans-Serif;fill:#a9b1d6}
+  .v{font:700 14px 'Segoe UI',Ubuntu,Sans-Serif;fill:#bb9af7}
+  .big{font:700 28px 'Segoe UI',Ubuntu,Sans-Serif;fill:#bb9af7}
+  .s{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#565f89}
+  .fade{opacity:0;animation:f .6s ease-out forwards}
+  @keyframes f{to{opacity:1}}
+  @keyframes g{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .bar{transform-box:fill-box;transform-origin:left;animation:g .9s ease-out forwards}
+</style>
+<rect x=".5" y=".5" rx="12" width="359" height="174" fill="#1a1b27" stroke="#7AA2F7" stroke-opacity=".35"/>
+<text x="24" y="34" class="t">Contribution Streak</text>
+<g class="fade" style="animation-delay:0ms" text-anchor="middle"><text x="70" y="100" class="big">149</text><text x="70" y="126" class="l">Contributions</text><text x="70" y="146" class="s">last 12 months</text></g><g class="fade" style="animation-delay:200ms" text-anchor="middle"><text x="190" y="100" class="big">1</text><text x="190" y="126" class="l">Current streak</text><text x="190" y="146" class="s">days</text></g><g class="fade" style="animation-delay:400ms" text-anchor="middle"><text x="310" y="100" class="big">3</text><text x="310" y="126" class="l">Longest streak</text><text x="310" y="146" class="s">days, last 12 months</text></g>
+</svg>
